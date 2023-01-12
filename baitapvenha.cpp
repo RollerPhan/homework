@@ -107,7 +107,16 @@ void bai7()
     }
 }
 
-
+void bai8()
+{
+    while (!cin.eof())
+    {
+        string s;
+        getline(cin,s);
+        s[0] = toupper(s[0]);
+        cout << s << " ";
+    }
+}
 int main()
 {
     ios_base::sync_with_stdio(false);
@@ -120,6 +129,7 @@ int main()
     //bai4();
     //bai5();
     //bai6();
-    bai7();
+    //bai7();
+    bai8();
     return 0;
 }
