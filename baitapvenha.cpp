@@ -96,6 +96,18 @@ void bai6()
         cout << chu << " ";
     }
 }
+
+void bai7()
+{
+    while (!cin.eof())
+    {
+        string s;
+        getline(cin,s);
+        cout << s <<" ";
+    }
+}
+
+
 int main()
 {
     ios_base::sync_with_stdio(false);
@@ -107,6 +119,7 @@ int main()
     //bai3();
     //bai4();
     //bai5();
-    bai6();
+    //bai6();
+    bai7();
     return 0;
 }
