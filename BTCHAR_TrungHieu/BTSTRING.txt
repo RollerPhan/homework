@@ -1,0 +1,7 @@
+Bai 1: Viết chương trình nhập vào một xâu kí tự chữ cái, in ra màn hình xâu đó in hoa.
+
+Bai 2: Nhập vào hai xâu kí tự họ tên. in ra màn hình xâu họ tên dài hơn, nếu bằng nhau thì in xâu nhập sau.
+
+Bai 3: Di truyen cac phan tu theo yeu cau cua de bai
+
+Bai 4: Cho một xâu con độ dài n. Hãy tìm cách thay thế nhiều nhất 2 kí tự để thu được 1 xâu đối xứng.
